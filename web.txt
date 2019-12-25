@@ -1,6 +1,3 @@
 added in remote
-<<<<<<< HEAD
 added in local
-=======
 addeed 2 in remote
->>>>>>> f6746bcabc9ecb8b7809248790405cde7c875e42
